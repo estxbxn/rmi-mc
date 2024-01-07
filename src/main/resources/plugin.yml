@@ -1,0 +1,4 @@
+name: "RMI-MC"
+main: "fr.endmc.exercise.RMIServer"
+version: "1.0.0"
+description: "Interagir avec un serveur Minecraft à distance"
